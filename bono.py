@@ -1,16 +1,23 @@
-def calcular_bono(sueldo, porcentaje):
+def calcular_bono():
+    sueldo = int(input("Ingrese Sueldo: "))
+    porcentaje = float(input("Ingrese Porcentaje: "))
 
-    sueldo = int(sueldo)               
-    porcentaje = float(porcentaje)     
+    if sueldo <= 0:
+        print("❎ Error: El sueldo debe ser mayor que 0.")
+        return None
 
-    bono = sueldo * (porcentaje / 100)  
-    total = sueldo + bono           
+    if porcentaje < 0:
+        print("❎ Error: El porcentaje no puede ser negativo.")
+        return None
+
+    bono = sueldo * (porcentaje / 100)
+    total = sueldo + bono
 
     print("==== Calculo de Bono ====")
     print("Sueldo base:", sueldo)
     print("Porcentaje de bono:", porcentaje)
     print("Sueldo total con bono:", total)
 
-    return total  
+    return total
 
- 
+calcular_bono()
