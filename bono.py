@@ -1,3 +1,5 @@
+import datos
+
 def calcular_bono():
     sueldo = int(input("Ingrese Sueldo: "))
     porcentaje = float(input("Ingrese Porcentaje: "))
