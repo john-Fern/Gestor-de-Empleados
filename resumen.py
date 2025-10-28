@@ -1,10 +1,7 @@
-def mostrarResumen(nombre, edad, cargo, total):
-    print("================================")
-    print("\tRESUMEN EMPLEADO")
-    print("================================")
-    print(f"Nombre Empleado: {nombre}")
-    print(f"Edad Empleado: {edad}")
-    print(f"Cargo Empleado: {cargo}") 
-    print(f"Sueldo final Empleado: {total}")
+def mostrar_resumen(nombre, edad, cargo, total):
+    print("\n=== Resumen del Empleado ===")
 
- 
+    print("Nombre:", nombre)
+    print("Edad:", edad, "años")
+    print("Cargo:", cargo)
+    print("Sueldo total con bono:", total)
