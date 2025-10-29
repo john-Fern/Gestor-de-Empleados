@@ -1,12 +1,12 @@
-# �� Actividad Grupal – “Gestor de Empleados con Funciones”
+# Actividad Grupal – “Gestor de Empleados con Funciones”
 
-### �� **Objetivo**
+### **Objetivo**
 
 Aplicar todo lo aprendido sobre **funciones**, **operadores**, **tipos de datos** (`int`, `float`, `str`), y **estructuras de control** (`while`, `if`) creando un pequeño programa en equipo.
 
 ---
 
-## �� **Contexto del ejercicio**
+## **Contexto del ejercicio**
 
 Imagina que trabajas en una empresa llamada **PyCompany**, y el jefe te pide un mini programa en Python para **registrar empleados** y calcular **bonos salariales**.
 
@@ -19,7 +19,7 @@ El programa deberá ejecutarse desde consola y mostrar un **menú interactivo** 
 
 ---
 
-## �� **Instrucciones del desafío**
+## **Instrucciones del desafío**
 
 El programa debe:
 
@@ -51,7 +51,7 @@ El programa debe:
 
 ---
 
-## �� **Trabajo en equipo**
+## **Trabajo en equipo**
 
 Cada integrante será responsable de **una parte del programa**:
 
@@ -66,7 +66,7 @@ Luego deberán **subir sus archivos a GitHub** y unificarlos en un mismo reposit
 
 ---
 
-## �� **Criterios de evaluación**
+##  **Criterios de evaluación**
 
 | Criterio                         | Ponderación | Descripción                                         |
 | -------------------------------- | ----------- | --------------------------------------------------- |
@@ -79,8 +79,8 @@ Luego deberán **subir sus archivos a GitHub** y unificarlos en un mismo reposit
 
 ---
 
-## �� **Mensaje final para los alumnos**
+## **Mensaje final para los alumnos**
 
 > “Este ejercicio no es solo para programar: es para trabajar en equipo, coordinarse, revisar código y aprender de los errores.
 >
-> La clave no es hacerlo perfecto, sino **hacerlo juntos** y **entender cómo se arma un programa completo paso a paso.** ��”
+> La clave no es hacerlo perfecto, sino **hacerlo juntos** y **entender cómo se arma un programa completo paso a paso.** ”
